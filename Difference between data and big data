@@ -1,0 +1,6 @@
+ Data is information in raw or unorganized form.
+ Data is stored using databses or datawarehouses which are basically based on RDBMS.
+ RDBMS works on structured data and cannot store data in the form of pictures, audio etc
+Big Data is a high-volume, highvelocity, and high-variety information asset that demands cost-effective, innovative forms of information
+processing for enhanced insight and decision making.
+Bigdata works on any form of data using database management techniques other than RDBMS.
